@@ -45,3 +45,13 @@ OpenWeatherAPI, saving the data through the post request and updating the UI
 dynamically.
 
 Try it out!
+
+
+## Running the app
+#### For Windows
+- Open Command Prompt by typing `cmd` in the search bar
+- Make sure that the node.js is successfully installed by typing `node -v`
+- Then type `npm cache clean --force` and press Enter.
+- Then type `rm -rf node_modules package-lock.json` and press Enter.
+- Then type `npm install` and press Enter.
+- And finally type `npm start` and press Enter.
