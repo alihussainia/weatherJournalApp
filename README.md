@@ -54,4 +54,5 @@ Try it out!
 - Then type `npm cache clean --force` and press Enter.
 - Then type `rm -rf node_modules package-lock.json` and press Enter.
 - Then type `npm install` and press Enter.
-- And finally type `npm start` and press Enter.
+- Then type `npm start` and press Enter.
+- And finally open your browser, and type `http://127.0.0.1:8080/`
